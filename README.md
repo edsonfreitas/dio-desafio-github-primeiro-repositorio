@@ -1,2 +1,6 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio do projeto sobre repositório GIT/GitHub, do bootcamp Eduzz Fullstack Developer! 
+ Repositório criado para o Desafio de Projeto
+
+
+## Links Úteis
+[sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
